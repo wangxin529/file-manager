@@ -8,5 +8,4 @@ port: 8080
 #  sentinelPassword: xxx
 #  db: 0
 application:
-#  app_prefix: /api/v1/
   StoragePath: /tmp
