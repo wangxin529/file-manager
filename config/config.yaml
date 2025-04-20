@@ -1,0 +1,12 @@
+port: 8080
+#redis:
+#  addr:
+#    - xxxxxxx
+#  password: xxx
+#  port: 6379
+#  masterName: xxxx
+#  sentinelPassword: xxx
+#  db: 0
+application:
+#  app_prefix: /api/v1/
+  StoragePath: /tmp
